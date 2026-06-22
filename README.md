@@ -27,7 +27,7 @@
 | [🔐 Backup Automatizado de PostgreSQL](https://github.com/nbodero-netizen/backup-automatizado-postgresql) | Script Bash para backup incremental con cifrado AES-256 y sincronización a AWS S3 Glacier | Bash, PostgreSQL, OpenSSL, AWS |
 | [📊 Predicción de Eficiencia Energética](https://github.com/tuusuario) | Modelo de regresión para predecir cargas de calefacción/enfriamiento en edificios | Python, pandas, sklearn, RandomForest |
 | [🏥 Administración de Centro de Cómputo](https://github.com/tuusuario) | Infraestructura híbrida, monitoreo Zabbix, protocolos de escalamiento, bitácora de mantenimiento | Zabbix, VMware, Bash |
-| [📋 Auditoría TI TechEduCloud S.A.](https://github.com/tuusuario) | Análisis de riesgos ISO 27005, controles ITGC/ITAC, BCP/DRP | ISO 27001, ISO 27005, COBIT |
+| [📋 Auditoría TI TechEduCloud S.A.](https://github.com/nbodero-netizen/auditoria-ti-techeducloud) | Análisis de riesgos ISO 27005, controles ITGC/ITAC, BCP/DRP | ISO 27001, ISO 27005, COBIT |
 
 ---
 
